@@ -1,0 +1,10 @@
+.about {
+    background-image: linear-gradient(90deg, aqua 30%, blue 90%);
+    border: 3px solid gold;
+    position: fixed;
+    width: 600px;
+    text-align: center;
+    top: 85px;
+    right: -190px;
+    transform: rotate(45deg);
+}
